@@ -1,0 +1,13 @@
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.exe
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.deps.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.runtimeconfig.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.runtimeconfig.dev.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.dll
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\bin\Debug\netcoreapp3.1\saida-de-dados.pdb
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.csprojAssemblyReference.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.AssemblyInfoInputs.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.AssemblyInfo.cs
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.dll
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.pdb
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\saida-de-dados\saida-de-dados\obj\Debug\netcoreapp3.1\saida-de-dados.genruntimeconfig.cache
