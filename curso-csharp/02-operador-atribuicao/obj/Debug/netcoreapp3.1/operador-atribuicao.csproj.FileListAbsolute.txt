@@ -1,0 +1,13 @@
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.exe
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.deps.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.runtimeconfig.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.runtimeconfig.dev.json
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.dll
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\bin\Debug\netcoreapp3.1\operador-atribuicao.pdb
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.csprojAssemblyReference.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.AssemblyInfoInputs.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.AssemblyInfo.cs
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.dll
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.pdb
+C:\Users\smfss\windows\Dev\nelio-avlves\curso-csharp\operador-atribuicao\obj\Debug\netcoreapp3.1\operador-atribuicao.genruntimeconfig.cache
